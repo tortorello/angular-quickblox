@@ -1,0 +1,28 @@
+{
+  "name": "angular2-quickblox",
+  "version": "0.1.0",
+  "description": "A minimal Node module providing Quickblox integration for Angular 2+.",
+  "main": "quickblox.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tortorello/angular2-quickblox.git"
+  },
+  "keywords": [
+    "quickblox"
+  ],
+  "author": "Victor Tortorello Neto <vtneto@gmail.com> (http://eumaismais.com.br/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tortorello/angular2-quickblox/issues"
+  },
+  "homepage": "https://github.com/tortorello/angular2-quickblox#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0",
+    "typescript": "^2.6.2"
+  },
+  "typings": "./quickblox.d.ts"
+}
