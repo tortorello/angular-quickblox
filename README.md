@@ -1,1 +1,1 @@
-# angular-quickblox
+# angular2-quickblox
