@@ -7,6 +7,7 @@ Quickblox callbacks and not promises.
 ## Installation
 
   npm install angular2-quickblox --save
+  
   npm install git://github.com/tortorello/angular2-quickblox.git --save
 
 ## Usage
