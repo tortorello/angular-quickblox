@@ -5,6 +5,6 @@ const expect = require('chai').expect,
 
 describe('#quickblox', function () {
     it('version', function () {
-        expect(quickblox.version).to.equal('2.8.0');
+        expect(new quickblox.QuickBlox().version).to.equal('2.8.0');
     });
 });

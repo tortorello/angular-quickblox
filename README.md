@@ -9,7 +9,7 @@ A minimal Node module providing Quickblox integration for Angular 2+.
 
 ## Usage
 
-  import * as QB from 'angular2-quickblox';
+  import { QuickBlox } from 'angular2-quickblox';
   
   console.log(QB.version);
 

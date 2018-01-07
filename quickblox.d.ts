@@ -1,4 +1,7 @@
-export interface QuickBlox {
+declare module 'angular2-quickblox' {
+}
+
+interface QuickBlox {
     version: string;
     buildNumber: string;
     chat: any;
