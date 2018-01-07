@@ -1,5 +1,5 @@
 angular2-quickblox
-=========
+==================
 
 A minimal Node module providing Quickblox integration for Angular 2+. At this moment, the module works with the default
 Quickblox callbacks and not promises.
