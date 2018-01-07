@@ -1,7 +1,8 @@
 angular2-quickblox
 =========
 
-A minimal Node module providing Quickblox integration for Angular 2+.
+A minimal Node module providing Quickblox integration for Angular 2+. At this moment, the module works with the default
+QuickBlox callbacks and not promises.
 
 ## Installation
 
@@ -11,7 +12,7 @@ A minimal Node module providing Quickblox integration for Angular 2+.
 
   import { QuickBlox } from 'angular2-quickblox';
   
-  console.log(QB.version);
+  console.log(new QuickBlox().version); // 2.8.0
 
 ## Tests
 
